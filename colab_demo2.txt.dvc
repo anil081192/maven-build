@@ -1,0 +1,5 @@
+outs:
+- md5: e35e5ad8a73344503a00d3370791b0eb
+  size: 16
+  hash: md5
+  path: colab_demo2.txt
