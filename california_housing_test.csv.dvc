@@ -1,0 +1,5 @@
+outs:
+- md5: d9a4b24d17770fad3209a18a4a5a3750
+  size: 301141
+  hash: md5
+  path: california_housing_test.csv
